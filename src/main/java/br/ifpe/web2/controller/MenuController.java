@@ -42,4 +42,5 @@ public class MenuController {
 		model.addAttribute("mensagem", "Hallo, Welt!");
 		return "hello_world";
 	}
+	
 }
